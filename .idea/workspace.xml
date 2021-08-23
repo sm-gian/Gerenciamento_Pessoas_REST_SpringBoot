@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aa556ed-db2c-4029-bc2e-980f7188f74b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/controller/PersonController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/dto/MsgResponseDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/entity/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/entity/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/enums/PhoneType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/repository/PersonRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/service/PersonService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3aa556ed-db2c-4029-bc2e-980f7188f74b" name="Changes" comment="git commit -m &quot;Created classes and developed person create operation&quot;">
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +84,14 @@
       <option name="presentableId" value="Default" />
       <updated>1629750878983</updated>
     </task>
+    <task id="LOCAL-00001" summary="git commit -m &quot;Created classes and developed person create operation&quot;">
+      <created>1629759178027</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629759178027</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,5 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="git commit -m &quot;Created classes and developed person create operation&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;Created classes and developed person create operation&quot;" />
   </component>
 </project>
