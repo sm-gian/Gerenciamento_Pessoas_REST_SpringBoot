@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aa556ed-db2c-4029-bc2e-980f7188f74b" name="Changes" comment="git commit -m &quot;Delete by id method&quot;">
+    <list default="true" id="3aa556ed-db2c-4029-bc2e-980f7188f74b" name="Changes" comment="git commit -m &quot;Get method&quot;">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.mv.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/db.mv.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/controller/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/controller/PersonController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/service/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/service/PersonService.java" afterDir="false" />
     </list>
