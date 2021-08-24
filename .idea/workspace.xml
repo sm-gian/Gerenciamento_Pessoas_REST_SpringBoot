@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aa556ed-db2c-4029-bc2e-980f7188f74b" name="Changes" comment="git commit -m &quot;Get method&quot;">
+    <list default="true" id="3aa556ed-db2c-4029-bc2e-980f7188f74b" name="Changes" comment="git commit -m &quot;Delete by id method&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/db.mv.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/controller/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/controller/PersonController.java" afterDir="false" />
@@ -63,6 +63,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -123,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629766398302</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="git commit -m &quot;Delete by id method&quot;">
+      <created>1629810292038</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1629810292038</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +152,7 @@
     <MESSAGE value="git commit -m &quot;Changed runtime version on app properties&quot;" />
     <MESSAGE value="git commit -m &quot;Improved person creation&quot;" />
     <MESSAGE value="git commit -m &quot;Get method&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;Get method&quot;" />
+    <MESSAGE value="git commit -m &quot;Delete by id method&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;Delete by id method&quot;" />
   </component>
 </project>
