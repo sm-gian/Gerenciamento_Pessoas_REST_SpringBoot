@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa556ed-db2c-4029-bc2e-980f7188f74b" name="Changes" comment="git commit -m &quot;Get method&quot;">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/one/digital/innovation/personapi/service/PersonServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/one/digital/innovation/personapi/utils/PersonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/one/digital/innovation/personapi/utils/PhoneUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/controller/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/controller/PersonController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/service/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/service/PersonService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,12 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="one.digital.innovation.personapi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PersonServiceTest.testGivenPersonDTOThenReturnSavedMessage">
     <configuration name="BookController" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="one.digital.innovation.personapi.PersonapiApplication" />
       <module name="personapi" />
@@ -80,6 +84,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PersonServiceTest.testGivenPersonDTOReturnSavedMsg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="personapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.digital.innovation.personapi.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="one.digital.innovation.personapi.service" />
+      <option name="MAIN_CLASS_NAME" value="one.digital.innovation.personapi.service.PersonServiceTest" />
+      <option name="METHOD_NAME" value="testGivenPersonDTOReturnSavedMsg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonServiceTest.testGivenPersonDTOThenReturnSavedMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="personapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.digital.innovation.personapi.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="one.digital.innovation.personapi.service" />
+      <option name="MAIN_CLASS_NAME" value="one.digital.innovation.personapi.service.PersonServiceTest" />
+      <option name="METHOD_NAME" value="testGivenPersonDTOThenReturnSavedMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PersonServiceTest.testGivenPersonDTOThenReturnSavedMessage" />
+        <item itemvalue="JUnit.PersonServiceTest.testGivenPersonDTOReturnSavedMsg" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
