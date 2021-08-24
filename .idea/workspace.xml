@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aa556ed-db2c-4029-bc2e-980f7188f74b" name="Changes" comment="git commit -m &quot;Improved person creation&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/exception/PersonNotFoundException.java" afterDir="false" />
+    <list default="true" id="3aa556ed-db2c-4029-bc2e-980f7188f74b" name="Changes" comment="git commit -m &quot;Get method&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/db.mv.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/controller/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/controller/PersonController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/service/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/one/digital/innovation/personapi/service/PersonService.java" afterDir="false" />
     </list>
@@ -109,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629765136853</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="git commit -m &quot;Get method&quot;">
+      <created>1629766340178</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629766340178</updated>
+    </task>
+    <task id="LOCAL-00005" summary="git commit -m &quot;Get method&quot;">
+      <created>1629766398302</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629766398302</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +143,7 @@
     <MESSAGE value="git commit -m &quot;Created classes and developed person create operation&quot;" />
     <MESSAGE value="git commit -m &quot;Changed runtime version on app properties&quot;" />
     <MESSAGE value="git commit -m &quot;Improved person creation&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;Improved person creation&quot;" />
+    <MESSAGE value="git commit -m &quot;Get method&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;Get method&quot;" />
   </component>
 </project>
